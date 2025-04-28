@@ -1,5 +1,5 @@
 <html>  
 <body> 
-<% out.print("welcomeee to india") %>  
+<% out.print("welcomeee to indiaa") %>  
 </body>  
 </html> 
